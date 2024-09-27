@@ -4,6 +4,7 @@ This repository contains the tools developed by the Digitising Human Experience 
 
 ### bootmsg.py
 This script runs automatically upon powering on the Raspberry Pi. It displays the boot time, the connected network, and the device's IP address or hostname on the e-ink display.
+
  ![Welcome Message](readme_images/welcome_msg.jpeg)
 
 ### imageviewer.py
@@ -11,6 +12,7 @@ This script allows users to display an image on the e-ink display with the corre
 
 ### safepoweroff.py
 This script runs during the Raspberry Pi's shutdown process. It displays the shutdown time and the device's hostname on the e-ink display.
+
  ![Safe Shutdown](readme_images/safe_shutdown.jpeg)
  
 ### slideshow.py
